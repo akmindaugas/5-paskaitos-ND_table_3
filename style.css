@@ -1,0 +1,30 @@
+@import url('href="https://fonts.googleapis.com/css2?family=Borel&family=Roboto:ital,wght@0,500;1,300&display=swap" rel="stylesheet"');
+
+*
+table{
+width: 100%;
+margin: 1px auto;
+border-collapse: collapse;
+font-family: 'Roboto', sans-serif;
+font-style: bold 700;
+font-size: xxx-large;
+text-align: left;
+}
+/* Problemos parenkant ir formatuojant fontą */
+
+td{
+border: 5px solid  black;
+padding: 20px;
+}
+.Oranžinė{
+  background-color: #fea500;
+  color: white;
+}
+.Mėlyna{
+  background-color: rgb(79, 79, 255, 255);
+  color: white;
+}
+.Žalia{
+  background-color: rgb(22, 192, 59, 255);
+  color: white;
+}
